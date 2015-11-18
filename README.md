@@ -1,0 +1,2 @@
+# kanji-explosions
+Kanji Explosions
