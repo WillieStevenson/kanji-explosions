@@ -1,5 +1,5 @@
 # kanji-explosions
-Kanji Explosions
+A javascript annimation of exploding kanji characters
 
 
 The animation script I made for the landing page of my site https://kanade.io
